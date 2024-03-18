@@ -9,3 +9,10 @@ The world's population has grown a lot, reaching over 7.5 billion in 2019. China
 
 ![image](https://github.com/nileshely/World-Population-Data-Analysis/assets/163812350/d167ec01-8d77-49fa-9d9c-72c0f52b4378)
 
+![image](https://github.com/nileshely/World-Population-Data-Analysis/assets/163812350/1bf16204-131e-442e-a7eb-fe5bb63255b4)
+
+![image](https://github.com/nileshely/World-Population-Data-Analysis/assets/163812350/19e2b923-4439-41e6-a2cc-8c4039dafc1f)
+
+![image](https://github.com/nileshely/World-Population-Data-Analysis/assets/163812350/7ee5bc98-6580-48a8-be11-db717feb05d9)
+
+![image](https://github.com/nileshely/World-Population-Data-Analysis/assets/163812350/e9363c7f-b650-490f-9aa0-87bb60775363)
